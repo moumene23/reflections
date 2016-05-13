@@ -1,2 +1,5 @@
 When would you want to use a remote repository rather than keeping all your work local?
 #When it's a groupe project work , or when we need some help from some one else.
+
+Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
+# One big difference between Local Git and GitHub,till this lesson, is : there is no staging area in GitHub : just edit and commit...for the reflection there : if it's a work group and some one add a new commit in GitHub i have to take a look at it before adding it, just for this reason the pull changes manually is better solution.
