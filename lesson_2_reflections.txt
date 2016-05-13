@@ -1,0 +1,25 @@
+What happens when you initialize a repository? Why do you need to do it?
+# a hiden directory ".git" will be created
+# to make a repository a repository !
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+# staging area is only for adding some files in way to creat a commit just like a buffer while Working directory contain all files.
+# i compare it to a buffer before running : git commit command
+
+How can you use the staging area to make sure you have one commit per logical change?
+# I don't understand the question but i guess using : git status
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+# To expirement some ideas with big difference from the master branch, a new vision in project.
+# in difference of one way project this will help us to have more choices and solutions. 
+
+How do the diagrams help you visualize the branch structure?
+# i guess to see who is parent of who!
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+# till now am not so confient of merging process ! but the result is a correlation between tow branches !
+# !
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+# Realy i don't know, i have to do it first.
