@@ -11,3 +11,6 @@ Describe the differences between forks, clones, and branches. When would you use
 # Clones : Same Reposetories in Local and GitHub. exp : Used to share and get some contribution...
 # Forks : Same Reposetories in GitHub. exp : Used whene i don't have access to modify 
           the repository of some one else so i fork it and modify it in my own github or local.
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+# avoiding severall conflicts and allowing fast merging process
