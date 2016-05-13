@@ -3,3 +3,8 @@ When would you want to use a remote repository rather than keeping all your work
 
 Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
 # One big difference between Local Git and GitHub,till this lesson, is : there is no staging area in GitHub : just edit and commit...for the reflection there : if it's a work group and some one add a new commit in GitHub i have to take a look at it before adding it, just for this reason the pull changes manually is better solution.
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+# Branches : different way in same reposetory. exp : Used whene i have to expeiment some ideas...
+# Clones : Same Reposetory in Local and GitHub. exp : Used to share and get some contribution...
+# Forks : Same Reposetory in GitHub. exp : Used whene i don't have access to modify the repository of some one else so i fork it and modify it in my own github or local.
