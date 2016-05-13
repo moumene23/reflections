@@ -1,13 +1,33 @@
 How did viewing a diff between two versions of a file help you see the bug that
 was introduced?
 
-    Fill in your answer here
+# Just the fact that i have tow versions that mean i have comparision option, a reference.
 
 How could having easy access to the entire history of a file make you a more
 efficient programmer in the long term?
 
-  
+ # till now i was using comments and keeping changes between brackets if it's short
+  and manually coping and passing source codes and changing name of projects by adding
+  new- or last- and so on...
+  so for one project in eclips i always had three or more same name with pre = new or ex
+  Now i hope, in what i read, it will be not the same way ...more efficient like you said.
 
   What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions automatically saved, like Google Docs does?
+  # For manual process just reading the title of Commit will help me to remembe what and why i done it, just like javadoc i guess
 
   Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, like Google Docs, treat each file separately?
+
+  #Realy don't know and don't discuss about "ligne à suivre pour chaque compagnie" sorry i don't have the english world for that, thing like personal way of production
+
+  How can you use the commands git log and git diff to view the history of files?
+  #first beeing in the correct branch by "git checkout branch"
+   git log : show us the entire commits with id's
+   if i want to know the difference between to commits"id_a" and "id_b" : git diff "id_a" "id_b" withe 
+   the adding and deleting lines.
+
+  How might using version control make you more confident to make changes that could break something?
+  # my prog evolution is :  eve_1,eve_2,eve_3 , if in eve_3 i have some bugs just using git diff eve_3 eve_2 i'll be able to fix it, so just this point make me confident.
+
+  Now that you have your workspace set up, what do you want to try using Git for?
+
+ # Java and Android programming
